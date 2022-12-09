@@ -16,5 +16,9 @@
   
   
 --- 
-  
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=armentc&show_icons=true&theme=dark" alt="armentc" />
+
+---
+
 ### 📫 [Let's talk about opportunities!](mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!)
