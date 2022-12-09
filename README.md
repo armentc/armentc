@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
+---
 ### 📫 [Let's talk about opportunities!](mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!)
 
 <!---
